@@ -1,0 +1,8 @@
+facebook-business
+requests_oauthlib
+pandas
+pandas_gbq
+google-cloud-bigquery
+google-auth
+requests
+numpy
